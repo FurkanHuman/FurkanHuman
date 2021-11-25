@@ -4,10 +4,6 @@
 
 
 
-https://img.shields.io/github/stars/FurkanHuman?style=flat-square
-https://img.shields.io/github/stars/FurkanHuman?style=social
-
-
-
-https://img.shields.io/twitter/follow/FurkanBozkurt86?style=flat-square
-https://img.shields.io/youtube/channel/subscribers/UCcBwFrgn6w3Ww5TdP1q5yTw?style=flat-square
+[![GitHub followers](https://img.shields.io/github/followers/FurkanHuman?style=social)](https://github.com/ibrhmusta?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/FurkanHuman?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=FurkanHuman.visitor-badge)](https://GitHub.com/FurkanHuman/StrapDown.js/stargazers/)

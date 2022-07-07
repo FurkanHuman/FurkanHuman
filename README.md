@@ -8,7 +8,7 @@
 <div align="center">
 
 # I'm Furkan Bozkurt (FurkanHuman)
-## Welcome.
+## Welcome
 
 </div>
 
